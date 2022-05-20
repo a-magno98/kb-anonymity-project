@@ -1,5 +1,5 @@
 # kb-anonymity project
-I have developed the project of kb-anonymity, which has been realized by the paper "kb-anonymity: A model for anonymized behavior-preserving test and debugging data." The project has been built using the tool VisualStudioCode with language Python 3.8.10 and library z3py for concerning the solver. 
+I have developed the kb-anonymity algorithm, which has been realized from the paper "kb-anonymity: A model for anonymized behavior-preserving test and debugging data." The project has been built using the tool VisualStudioCode with language Python 3.8.10 and library z3py for concerning the solver. 
 
 The project is organized in the following files and modules:
 
